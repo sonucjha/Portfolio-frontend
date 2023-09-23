@@ -23,8 +23,11 @@ a,
 
 @media (min-width: 1024px) {
   body {
-    display: flex;
-    place-items: center;
+    background: #151515;
+    font-family: "lora-regular", serif;
+    font-size: 1.7rem;
+    line-height: 3rem;
+    color: #6e6e6e;
   }
 
   #app {
