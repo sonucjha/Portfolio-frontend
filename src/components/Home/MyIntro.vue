@@ -1,5 +1,5 @@
 <template>
-     <section id="intro">
+  <section id="intro">
     <div class="intro-overlay"></div>
 
     <div class="intro-content">
@@ -9,8 +9,8 @@
           <h1>I'm Nabnit Jha</h1>
 
           <p class="intro-position">
+            <span>Father Of Cute Boy</span>
             <span>Business Man</span>
-            <span>I Love Learning</span>
           </p>
 
           <a class="button stroke smoothscroll" href="#about" title="">More About Me</a>

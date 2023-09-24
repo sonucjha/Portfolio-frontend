@@ -3,7 +3,8 @@
    ================================================== -->
   <header>
     <div class="row">
-      <top-menu></top-menu>
+      <!-- <top-menu></top-menu> -->
+
       <!-- /top-bar -->
     </div>
     <!-- /row -->
@@ -30,9 +31,9 @@
     <portfolio-menu></portfolio-menu>
   <!-- /portfolio -->
 
-  <!-- CTA Section
+  <!-- FAMILY Section
    ================================================== -->
-   <cta-menu></cta-menu>
+   <family-detail></family-detail>
   <!-- /cta -->
 
   <!-- services Section
@@ -42,7 +43,7 @@
 
   <!-- stats Section
    ================================================== -->
-  <status-menu></status-menu>
+  <business-type></business-type>
   <!-- /stats -->
 
   <!-- contact
@@ -62,11 +63,11 @@
 import TopMenu from "./TopMenu.vue";
 import IntroMenu from "./MyIntro.vue"
 import ContactMenu from "./MyContact.vue"
-import CtaMenu from "./MyCta.vue"
+import FamilyDetail from "./MyFamily.vue"
 import FooterMenu from "./MyFooter.vue"
 import PortfolioMenu from "./MyPortfolio.vue"
 import ResumeMenu from "./MyResume.vue"
 import SectionMenu from "./MySection.vue"
 import ServiceMenu from "./MyService.vue"
-import StatusMenu from "./MyStatus.vue"
+import BusinessType from "./BusinessType.vue"
 </script>
