@@ -1,5 +1,5 @@
 <template>
-  <section id="stats" class="count-up">
+  <section id="stats" class="count-up business-type">
     <div class="row">
       <div class="col-twelve">
         <div class="block-1-6 block-s-1-3 block-tab-1-2 block-mob-full stats-list">
@@ -66,11 +66,11 @@
   </section>
 </template>
 <style>
-.stats-list {
+.business-type .stats-list {
   display: flex;
   justify-content: space-between;
 }
-.bgrid{
+.business-type .bgrid{
   width: max-content!important;
 }
 .b-icon img{
